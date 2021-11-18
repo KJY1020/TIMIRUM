@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Nanimo...nakkatta.wav-ce2c3281f5a2a301c76f2b6b66a22ce1.sample"
+
+[deps]
+
+source_file="res://Today's_Dinner_Sound_Track/Nanimo...nakkatta.wav"
+dest_files=[ "res://.import/Nanimo...nakkatta.wav-ce2c3281f5a2a301c76f2b6b66a22ce1.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=true
+compress/mode=0

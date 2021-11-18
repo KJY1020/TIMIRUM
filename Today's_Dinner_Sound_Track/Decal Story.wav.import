@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Decal Story.wav-3985cd50499e14c8001406ef9f2f81be.sample"
+
+[deps]
+
+source_file="res://Today's_Dinner_Sound_Track/Decal Story.wav"
+dest_files=[ "res://.import/Decal Story.wav-3985cd50499e14c8001406ef9f2f81be.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=true
+compress/mode=0

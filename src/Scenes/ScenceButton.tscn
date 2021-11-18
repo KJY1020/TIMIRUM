@@ -1,0 +1,19 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://src/Scenes/ScenceButton.gd" type="Script" id=1]
+[ext_resource path="res://assets/osb_right.png" type="Texture" id=2]
+
+[node name="ScenceButton" type="Button"]
+margin_left = 2145.0
+margin_top = 1240.0
+margin_right = 2221.0
+margin_bottom = 1310.0
+rect_scale = Vector2( 4, 4 )
+icon = ExtResource( 2 )
+flat = true
+script = ExtResource( 1 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[connection signal="button_up" from="." to="." method="_on_button_up"]

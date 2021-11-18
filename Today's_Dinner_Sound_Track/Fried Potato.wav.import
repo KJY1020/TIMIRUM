@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Fried Potato.wav-43096307da7f0f0cd73ff13f9192a0a6.sample"
+
+[deps]
+
+source_file="res://Today's_Dinner_Sound_Track/Fried Potato.wav"
+dest_files=[ "res://.import/Fried Potato.wav-43096307da7f0f0cd73ff13f9192a0a6.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=true
+compress/mode=0

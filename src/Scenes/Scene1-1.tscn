@@ -1,0 +1,32 @@
+[gd_scene load_steps=4 format=2]
+
+[ext_resource path="res://src/Scenes/ScenceButton.tscn" type="PackedScene" id=1]
+[ext_resource path="res://assets/skip.png" type="Texture" id=2]
+[ext_resource path="res://Today's_DInner_Picture_Package/Today's_DInner_Picture_Package/2560X1600/1-1.png" type="Texture" id=3]
+
+[node name="Scene" type="Node"]
+
+[node name="1-1" type="TextureRect" parent="."]
+margin_right = 2560.0
+margin_bottom = 1600.0
+texture = ExtResource( 3 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="ScenceButton" parent="." instance=ExtResource( 1 )]
+margin_left = 0.0
+margin_top = 0.0
+margin_right = 640.0
+margin_bottom = 400.0
+icon = null
+next_scene_path = "res://src/Scenes/Scene1-2.tscn"
+
+[node name="ScenceButton2" parent="." instance=ExtResource( 1 )]
+margin_left = 2127.04
+margin_top = 62.8578
+margin_right = 2521.04
+margin_bottom = 190.858
+rect_scale = Vector2( 1, 1 )
+icon = ExtResource( 2 )
+next_scene_path = "res://src/Levels/Level01.tscn"

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/OutBack.wav-1eee88c68d5e8d90d5f6b7c737a60c5b.sample"
+
+[deps]
+
+source_file="res://Today's_Dinner_Sound_Track/OutBack.wav"
+dest_files=[ "res://.import/OutBack.wav-1eee88c68d5e8d90d5f6b7c737a60c5b.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=true
+compress/mode=0
